@@ -1,0 +1,15 @@
+.log_title{
+    display: inline;
+}
+.log_data{
+    border: 2px solid black;
+    height: 500px;
+    overflow: auto;
+}
+.btn{
+    float: right;
+    border: 1px solid black;
+    padding: 5px 10px;
+    border-radius: 10px;
+    width: 72px;
+}
